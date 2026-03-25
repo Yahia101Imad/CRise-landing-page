@@ -1,8 +1,7 @@
-import TwitterIcon from '@mui/icons-material/twitter';
+import TwitterIcon from '@mui/icons-material/Twitter';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import LinkedinIcon from '@mui/icons-material/linkedin';
-import YoutubeIcon from '@mui/icons-material/youtube';
-
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import YouTubeIcon from '@mui/icons-material/YouTube';
 
 export function EGrowFooter() {
   return (
