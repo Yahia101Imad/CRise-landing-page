@@ -34,7 +34,11 @@ A modern and responsive landing page built to showcase a digital product or serv
 
 ### 🖥️ Desktop View
 
-<img width="1920" height="9050" alt="Landing page" src="https://github.com/user-attachments/assets/b4874ff7-5c53-4d2e-84f5-90d553432660" />
+<img width="1920" height="4087" alt="Landing page (1)" src="https://github.com/user-attachments/assets/3c36f39f-0139-4a7d-bfcd-df181c16fa16" />
+
+
+<img width="1920" height="4920" alt="Landing page (2)" src="https://github.com/user-attachments/assets/a8fcadcf-74ed-4876-9f52-3fb2517d5c89" />
+
 
 ---
 
