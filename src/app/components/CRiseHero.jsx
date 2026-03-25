@@ -1,7 +1,7 @@
 import { Button } from "./ui/button";
 import { ArrowRight, Sparkles, TrendingUp } from "lucide-react";
 
-export function EGrowHero() {
+export function CRiseHero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-purple-50 via-blue-50 to-white pt-16">
       {/* Animated Background Elements */}

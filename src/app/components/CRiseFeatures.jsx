@@ -40,7 +40,7 @@ const features = [
   },
 ];
 
-export function EGrowFeatures() {
+export function CRiseFeatures() {
   return (
     <section id="features" className="py-20 lg:py-32 bg-white">
       <div className="container mx-auto px-4 lg:px-8">

@@ -3,7 +3,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 
-export function EGrowFooter() {
+export function CRiseFooter() {
   return (
     <footer className="bg-gray-50 border-t border-gray-200">
       <div className="container mx-auto px-4 lg:px-8 py-16">
