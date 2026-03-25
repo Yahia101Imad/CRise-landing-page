@@ -1,16 +1,67 @@
-# React + Vite
+# 🌱 CRise Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page built to showcase a digital product or service with clean UI and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 [your-vercel-link.vercel.app](https://crise-jade.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚡ Fully responsive design (Mobile / Tablet / Desktop)
+* 🎨 Clean and modern UI
+* 🚀 Fast performance with Vite
+* 🧩 Reusable components
+* 📱 Mobile-first approach
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3 / TailwindCSS
+* JavaScript (ES6+)
+* React
+* Vite
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+
+<img width="1920" height="9050" alt="Landing page" src="https://github.com/user-attachments/assets/b4874ff7-5c53-4d2e-84f5-90d553432660" />
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/CRise-landing-page.git
+cd CRise-landing-page
+npm install
+npm run dev
+```
+
+---
+
+## 📌 What I Learned
+
+* Building responsive layouts
+* Component-based architecture in React
+* Improving UI/UX design skills
+* Optimizing performance with Vite
+
+---
+
+## 📬 Contact
+
+If you want a similar project or collaboration, feel free to reach out!
+
+---
+
+⭐ Don't forget to give this project a star if you like it!
