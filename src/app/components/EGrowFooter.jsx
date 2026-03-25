@@ -29,10 +29,10 @@ export function EGrowFooter() {
                 <InstagramIcon className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors" />
               </a>
               <a href="#" className="w-10 h-10 rounded-full bg-gray-200 hover:bg-purple-600 flex items-center justify-center transition-colors group">
-                <LinkedinIcon className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors" />
+                <LinkedInIcon className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors" />
               </a>
               <a href="#" className="w-10 h-10 rounded-full bg-gray-200 hover:bg-purple-600 flex items-center justify-center transition-colors group">
-                <YoutubeIcon className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors" />
+                <YouTubeIcon className="w-5 h-5 text-gray-600 group-hover:text-white transition-colors" />
               </a>
             </div>
           </div>
