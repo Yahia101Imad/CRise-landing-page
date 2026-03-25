@@ -1,8 +1,8 @@
 {
-  "name": "CRise-landing-page",
-  "version": "1.0.0",
+  "name": "landing-page-egrow",
+  "version": "0.0.0",
   "private": true,
-  "description": "Landing Page using React with vite, Tailwind & MUI",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "homepage": "https://github.com/Yahia101Imad/landing-page-EGrow#readme",
   "bugs": {
     "url": "https://github.com/Yahia101Imad/landing-page-EGrow/issues"
@@ -34,8 +34,8 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
-    "@types/react": "^18.2.7",
-    "@types/react-dom": "^18.2.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
     "autoprefixer": "^10.4.27",
     "eslint": "^9.39.4",
